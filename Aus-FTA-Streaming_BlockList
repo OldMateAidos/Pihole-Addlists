@@ -1,5 +1,4 @@
 ##/ 7Plus \##
-
 0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 firebaseremoteconfig.googleapis.com
@@ -7,6 +6,5 @@
 0.0.0.0 cdn-gl.imrworldwide.com
 0.0.0.0 app.igodigital.com
 0.0.0.0 events.landmarksid.com
-0.0.0.0 *.marketingcloudapis.com
 0.0.0.0 mcdk24jjpx196h2xh08js-12-r3m.device.marketingcloudapis.com
-
+## / 7Plus \##
