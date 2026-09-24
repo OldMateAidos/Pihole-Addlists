@@ -14,7 +14,8 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
-
+0.0.0.0 ads.microsoft.com
+0.0.0.0 advertising-api-eu.amazon.com
 0.0.0.0 realtime.luckyorange.com
 0.0.0.0 claritybt.freshmarketer.com
 0.0.0.0 fwtracks.freshmarketer.com
