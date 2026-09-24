@@ -14,7 +14,7 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
-
+0.0.0.0 pangleglobal.com
 0.0.0.0 api.onesignal.com
 0.0.0.0 clientstream.launchdarkly.com
 0.0.0.0 t.pepperjamnetwork.com
